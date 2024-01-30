@@ -7,10 +7,10 @@ body {
     background-color: rgb(146, 76, 211);
 }
 
-main1{
+main{
     background-color: aliceblue;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgb(61, 58, 58);
+    box-shadow: 3px 3px 5px rgb(0, 0, 0.473);
 }
