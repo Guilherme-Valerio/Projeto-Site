@@ -7,6 +7,14 @@ body {
     background-color: rgb(146, 76, 211);
 }
 
+img.lado1 {
+    float: right;
+}
+
+img.lado2 {
+    float: left;
+}
+
 main{
     background-color: aliceblue;
     width: 500px;
